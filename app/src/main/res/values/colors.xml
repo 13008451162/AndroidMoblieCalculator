@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimaryDark">#C3BCBC</color>
+    <color name="red">#C7C2C2</color>
+    <color name="your_button_color">#C5B1B0</color>
+    <color name="colorPrimary">#D2D0CF</color>
+    <color name="Function">#BBBBBB</color>
+    <color name="greywhite">#EBE3E3</color>
+    <color name="Greywhite">#F7EEEE</color>
+    <color name="orange">#F67010</color>
+    <color name="Function1">#F3F3F3</color>
+    <color name="Function2">#E9E9E4</color>
+    <color name="Function3">#FFFFFF</color>
+    <color name="Function5">#EDEDED</color>
+    <color name="Greywhite1">#EAF0F0</color>
+    <color name="Greywhite2">#FFFCFC</color>
+    <color name="Greywhite3">#FFFFFF</color>
+    <color name="Greywhite4">#ECFAE9</color>
+</resources>

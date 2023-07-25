@@ -1,0 +1,16 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 定义按下状态的样式 -->
+    <item android:state_pressed="true">
+        <shape android:shape="oval">
+            <solid android:color="@color/Function3" />
+            <size android:height="55dp" android:width="55dp"/>
+        </shape>
+    </item>
+    <!-- 定义普通状态的样式 -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/Function5" />
+            <size android:height="60dp" android:width="60dp"/>
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- text_size_change.xml -->
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator
+        android:propertyName="textSize"
+        android:valueType="floatType"
+        android:valueFrom="30"
+        android:valueTo="25"
+        android:duration="500"
+        />
+</set>
